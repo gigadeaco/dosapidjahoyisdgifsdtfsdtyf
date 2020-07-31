@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Movies TV" tvg-logo="https://i.imgur.com/OIXjdsl.png",test
+http://lb.kstream.org/aovivo/FHD_AMC/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
 #EXTINF:-1 group-title="Movies TV" tvg-logo="https://i.imgur.com/OIXjdsl.png",FOX ACTION MOVIE
 https://cdn-laos.workpoint.news/hd-foxaction_720/index.m3u8
 #EXTINF:-1 group-title="Movies TV" tvg-logo="https://i.imgur.com/OIXjdsl.png",fox action
